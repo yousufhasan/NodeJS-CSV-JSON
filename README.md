@@ -4,14 +4,14 @@ To start the application, Please run the following command:
 
 npm install
 
-# For Task 1
+### For Task 1
 
 npm run generate-regional
 
-# For Task 2
+### For Task 2
 
 npm run generate-priority
 
-# For Task 3
+### For Task 3
 
 npm run generate-orders
