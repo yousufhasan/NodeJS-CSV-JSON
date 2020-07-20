@@ -1,0 +1,21 @@
+{
+  "name": "chromatix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate-regional": "ts-node-dev src/generators/regional.ts",
+    "generate-priority": "ts-node-dev src/generators/priority.ts",
+    "generate-orders": "ts-node-dev src/generators/orders.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "event-stream": "^4.0.1"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.0.0-pre.44",
+    "@types/event-stream": "^3.3.34",
+    "typescript": "^3.9.6"
+  }
+}
