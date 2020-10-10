@@ -1,20 +1,20 @@
 # NodeJS-CSV-JSON
 
-To start the application, Please run the following command:
+Please read the instructions.pdf file and download the complete CSV file first. To start the application, Please run the following command:
 ```javascript
 npm install
 ```
-### For Task 1
+### For Regional Report
 ```javascript
 npm run generate-regional
 ```
 
-### For Task 2
+### For Priority Report
 ```javascript
 npm run generate-priority
 ```
 
-### For Task 3
+### For Orders Report
 ```javascript
 npm run generate-orders
 ```
